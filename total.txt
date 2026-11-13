@@ -1,1 +1,1 @@
-total = sum
+total = round(sum)
