@@ -1,3 +1,4 @@
 Open
-Store
+Keep
 Quit
+Export
